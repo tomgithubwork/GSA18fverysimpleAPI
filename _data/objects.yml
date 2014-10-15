@@ -6,8 +6,8 @@ spot:
   age: 3
   breed: dalmation
   color: white
-  lassie:
-age: 7
+lassie:
+  age: 7
   breed: collie
   color: brown
 sally:
